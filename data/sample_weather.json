@@ -1,0 +1,84 @@
+{
+  "cities": {
+    "Kolkata": {
+      "city": "Kolkata",
+      "country": "IN",
+      "current": {
+        "temperature": 31.5,
+        "feels_like": 35.2,
+        "humidity": 78,
+        "pressure": 1004,
+        "wind_speed": 4.8,
+        "description": "scattered clouds",
+        "icon": "03d"
+      },
+      "forecast": [
+        {"date": "2026-11-23", "min_temp": 25, "max_temp": 32, "humidity": 76, "rain_probability": 20, "description": "scattered clouds"},
+        {"date": "2026-11-24", "min_temp": 25.5, "max_temp": 33, "humidity": 80, "rain_probability": 45, "description": "light rain"},
+        {"date": "2026-11-25", "min_temp": 26, "max_temp": 34.5, "humidity": 82, "rain_probability": 65, "description": "moderate rain"},
+        {"date": "2026-11-26", "min_temp": 24.5, "max_temp": 30, "humidity": 88, "rain_probability": 80, "description": "heavy rain"},
+        {"date": "2026-11-27", "min_temp": 24, "max_temp": 29, "humidity": 90, "rain_probability": 35, "description": "light rain"}
+      ]
+    },
+    "Delhi": {
+      "city": "Delhi",
+      "country": "IN",
+      "current": {
+        "temperature": 27,
+        "feels_like": 27,
+        "humidity": 42,
+        "pressure": 1012,
+        "wind_speed": 2.5,
+        "description": "haze",
+        "icon": "50d"
+      },
+      "forecast": [
+        {"date": "2026-11-23", "min_temp": 16, "max_temp": 28, "humidity": 40, "rain_probability": 5, "description": "clear sky"},
+        {"date": "2026-11-24", "min_temp": 15, "max_temp": 27, "humidity": 43, "rain_probability": 5, "description": "haze"},
+        {"date": "2026-11-25", "min_temp": 14, "max_temp": 26, "humidity": 45, "rain_probability": 10, "description": "few clouds"},
+        {"date": "2026-11-26", "min_temp": 15, "max_temp": 27, "humidity": 48, "rain_probability": 10, "description": "scattered clouds"},
+        {"date": "2026-11-27", "min_temp": 16, "max_temp": 28, "humidity": 44, "rain_probability": 5, "description": "clear sky"}
+      ]
+    },
+    "Mumbai": {
+      "city": "Mumbai",
+      "country": "IN",
+      "current": {
+        "temperature": 30,
+        "feels_like": 34,
+        "humidity": 75,
+        "pressure": 1008,
+        "wind_speed": 5.2,
+        "description": "few clouds",
+        "icon": "02d"
+      },
+      "forecast": [
+        {"date": "2026-11-23", "min_temp": 25, "max_temp": 31, "humidity": 74, "rain_probability": 10, "description": "clear sky"},
+        {"date": "2026-11-24", "min_temp": 25, "max_temp": 32, "humidity": 76, "rain_probability": 15, "description": "few clouds"},
+        {"date": "2026-11-25", "min_temp": 26, "max_temp": 32, "humidity": 78, "rain_probability": 20, "description": "scattered clouds"},
+        {"date": "2026-11-26", "min_temp": 25, "max_temp": 31, "humidity": 75, "rain_probability": 10, "description": "clear sky"},
+        {"date": "2026-11-27", "min_temp": 25, "max_temp": 32, "humidity": 77, "rain_probability": 15, "description": "few clouds"}
+      ]
+    },
+    "Chennai": {
+      "city": "Chennai",
+      "country": "IN",
+      "current": {
+        "temperature": 29,
+        "feels_like": 33,
+        "humidity": 80,
+        "pressure": 1007,
+        "wind_speed": 4.1,
+        "description": "broken clouds",
+        "icon": "04d"
+      },
+      "forecast": [
+        {"date": "2026-11-23", "min_temp": 25, "max_temp": 30, "humidity": 82, "rain_probability": 40, "description": "light rain"},
+        {"date": "2026-11-24", "min_temp": 25, "max_temp": 29, "humidity": 84, "rain_probability": 60, "description": "moderate rain"},
+        {"date": "2026-11-25", "min_temp": 24, "max_temp": 29, "humidity": 86, "rain_probability": 75, "description": "heavy rain"},
+        {"date": "2026-11-26", "min_temp": 25, "max_temp": 30, "humidity": 82, "rain_probability": 35, "description": "scattered clouds"},
+        {"date": "2026-11-27", "min_temp": 25, "max_temp": 31, "humidity": 80, "rain_probability": 20, "description": "few clouds"}
+      ]
+    }
+  }
+}

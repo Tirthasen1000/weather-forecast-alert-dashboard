@@ -1,0 +1,18 @@
+Weather Report: Kolkata, IN
+
+Current conditions
+Temperature: 31.5°C
+Feels like: 35.2°C
+Humidity: 78%
+Wind speed: 4.8 m/s
+Conditions: scattered clouds
+
+Forecast
+2026-11-23: 25°C to 32°C, rain chance 20%
+2026-11-24: 25.5°C to 33°C, rain chance 45%
+2026-11-25: 26°C to 34.5°C, rain chance 65%
+2026-11-26: 24.5°C to 30°C, rain chance 80%
+2026-11-27: 24°C to 29°C, rain chance 35%
+
+Alerts
+- Rain alert for 2026-11-26: 80% chance of rain.

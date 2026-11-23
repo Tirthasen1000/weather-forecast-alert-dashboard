@@ -1,0 +1,6 @@
+date,min_temp,max_temp,humidity,rain_probability,description
+2026-11-23,25.0,32.0,76,20,scattered clouds
+2026-11-24,25.5,33.0,80,45,light rain
+2026-11-25,26.0,34.5,82,65,moderate rain
+2026-11-26,24.5,30.0,88,80,heavy rain
+2026-11-27,24.0,29.0,90,35,light rain
